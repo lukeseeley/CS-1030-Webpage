@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(70, 70, 70);
+    color:rgb(220,220,220);
+}
+
+a:link{
+    color: lightblue;
+}
+
+a:visited{
+    color:rgb(211, 161, 114);
+}
+
+table, th, td, tr{
+    border: 1px white;
+    outline-style: groove;
+}
+
+h1, h2, h3, h4{
+    color: white;
+}
